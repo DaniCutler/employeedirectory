@@ -10,7 +10,7 @@ The user is able to search for employees and get their phone, email and location
 
 --Getting Started--
 
-clone this repo into your local and run 'npm i' in the root file of the folder. This will install all neccesary dependancies and then type 'npm run start' in terminal to begin hosting locally. Alternatively, you can use the live version - hosted by heroku to access. access here https://employeedirectorydc.herokuapp.com/. if running locally, navigate to your browser if not already open and put this url 'http://localhost:3000/' into the url address bar to find yourself on the react employee directory app.
+Clone this repo into your local and run 'npm i' in the root file of the folder. This will install all neccesary dependancies and then type 'npm run start' in terminal to begin hosting locally. Alternatively, you can use the live version - hosted by heroku to access. Access here https://employeedirectorydc.herokuapp.com/. If running locally, navigate to your browser if not already open and put this url 'http://localhost:3000/' into the url address bar to find yourself on the react employee directory app.
 
 --Built With--
 
